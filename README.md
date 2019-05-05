@@ -29,4 +29,4 @@ regarding the output, please take '/output/en-20-3.csv' as reference.
 
 ## author
 
-mailto:yuqing.ji@outlook.com
+<mailto:yuqing.ji@outlook.com>
