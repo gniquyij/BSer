@@ -8,6 +8,16 @@ a bullshit generator.
 
 generate non-sense sentence(s) of the required length by joining the words randomly selected from the corpus.
 
+## target usage
+
+@nlper: random corpus as the baseline in model verification.
+
+@designer: non-sense content to fill in the blank(s) for preview.
+
+@blogger: anti-search.
+
+...
+
 ## how to use BSer
 
 ```
@@ -21,7 +31,7 @@ Options:
   --number TEXT  number of bullshits
 ```
 
-regarding the output, please take '/output/en-20-3.csv' as reference.
+output please take '/output/en-20-3.csv' as reference.
   
 ## TODO
 
