@@ -26,3 +26,7 @@ regarding the output, please take '/output/en-20-3.csv' as reference.
 ## TODO
 
 - support more languages
+
+## author
+
+mailto:yuqing.ji@outlook.com
