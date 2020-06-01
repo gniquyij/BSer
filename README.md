@@ -1,14 +1,14 @@
 # BSer
 
-## what is BSer
+## What is BSer
 
-a bullshit generator. 
+A bullshit generator. 
 
-## how BSer works
+## How BSer works
 
-generate non-sense sentence(s) of the required length by joining the words randomly selected from the corpus.
+Generate non-sense sentence(s) of the required length by joining the words randomly selected from the corpus.
 
-## target usage
+## Target usage
 
 @nlper: random corpus as the baseline in model verification.
 
@@ -18,7 +18,7 @@ generate non-sense sentence(s) of the required length by joining the words rando
 
 ...
 
-## how to use BSer
+## How to use BSer
 
 ```
 $ python bs.py bullshitter --help
@@ -31,12 +31,12 @@ Options:
   --number TEXT  number of bullshits
 ```
 
-output please take '/output/en-20-3.csv' as reference.
+For an output, please refer to '/output/en-20-3.csv'.
   
 ## TODO
 
 - support more languages
 
-## author
+## Author
 
-<mailto:yuqing.ji@outlook.com>
+yuqing.ji@outlook.com
